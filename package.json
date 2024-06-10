@@ -25,5 +25,9 @@
     "eslint": "^8",
     "eslint-config-next": "14.2.3",
     "typescript": "^5"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/AndresRamirez1969/NetShip-Clean.git",
+  "author": "AndresRamirez1969 <andres.ramirezdea@gmail.com>",
+  "license": "MIT"
 }
